@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shoyaib01&label=Profile%20views&color=0e75b6&style=flat" alt="shoyaib01" /> </p>
 
-<p align="left"> <a href="https://twitter.com/@sabbirshoyaib" target="blank"><img src="https://img.shields.io/twitter/follow/@sabbirshoyaib?logo=twitter&style=for-the-badge" alt="@sabbirshoyaib" /></a> </p>
-
 - 🔭 I’m currently studing **B.Sc.(Engr.) in CSE at Bangladesh University Of Business And Tecnology-BUBT**
 
 - 🌱 I’m currently learning **C programming, C++**
